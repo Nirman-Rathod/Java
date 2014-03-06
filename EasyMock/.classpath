@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/easyMock-3.0/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/powermock-1.4.6/powermock-easymock-1.4.6-full.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/junit-4.8.1/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/easyMock-3.0/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/easyMock-3.0/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/easyMock-3.0/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nirman/Documents/Epo Server Datacentre project/DC-OpenStack/trunk/dev-tools/powermock-1.4.6/javassist-3.13.0-GA.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
